@@ -1,0 +1,8 @@
+C:\boqn 9d\zadacha\zadacha09.03\bin\Debug\zadacha09.03.exe.config
+C:\boqn 9d\zadacha\zadacha09.03\bin\Debug\zadacha09.03.exe
+C:\boqn 9d\zadacha\zadacha09.03\bin\Debug\zadacha09.03.pdb
+C:\boqn 9d\zadacha\zadacha09.03\obj\Debug\zadacha09.03.csproj.AssemblyReference.cache
+C:\boqn 9d\zadacha\zadacha09.03\obj\Debug\zadacha09.03.csproj.SuggestedBindingRedirects.cache
+C:\boqn 9d\zadacha\zadacha09.03\obj\Debug\zadacha09.03.csproj.CoreCompileInputs.cache
+C:\boqn 9d\zadacha\zadacha09.03\obj\Debug\zadacha09.03.exe
+C:\boqn 9d\zadacha\zadacha09.03\obj\Debug\zadacha09.03.pdb
